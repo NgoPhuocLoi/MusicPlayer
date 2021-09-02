@@ -305,6 +305,7 @@ const app = {
             if(!e.target.closest('.song.active')){
                 this.activeSongWhenClick(e)
                 this.playSong()
+                CdImgAnimate.play()
             }
             
         }
