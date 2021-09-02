@@ -74,12 +74,12 @@ const app = {
             path:'./playlist/song5.mp3',
             image:'./images/song5.png'
         },
-        {
-            name: 'Matabaki',
-            singer:'Osamu ft. Harutya',
-            path:'./playlist/song6.mp3',
-            image:'./images/song6.jpg'
-        },
+        // {
+        //     name: 'Matabaki',
+        //     singer:'Osamu ft. Harutya',
+        //     path:'./playlist/song6.mp3',
+        //     image:'./images/song6.jpg'
+        // },
         {
             name: 'Love is Gone',
             singer:'SLANDER ft. Dylan Matthew',
